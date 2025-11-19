@@ -60,3 +60,5 @@ Packages/com.crawfissoftware.eventspublisher/*
 # --- Optional (uncomment if you produce these) ---
 Assets/StreamingAssets/aa/           # Addressables build output
 Recording*/                          # e.g., Unity Recorder output dirs
+/Assets/EventsPublisher~
+/ProjectSettings/Packages/com.unity.dedicated-server
