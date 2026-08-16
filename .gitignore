@@ -62,3 +62,6 @@ Assets/StreamingAssets/aa/           # Addressables build output
 Recording*/                          # e.g., Unity Recorder output dirs
 /Assets/EventsPublisher~
 /ProjectSettings/Packages/com.unity.dedicated-server
+
+# Meta files for ignored .pdb debug symbols (see *.pdb above)
+*.pdb.meta
